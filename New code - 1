@@ -2,12 +2,12 @@ def calculate_simple_interest(principal, rate, time):
     """
     Calculate the simple interest.
     
-    :param principal: The principal amount (initial investment)### ( Detlet this part ) 
+    :param principal: The principal amount (initial investment)
     :param rate: The annual interest rate (in percentage)
     :param time: The time the money is invested for (in years)
     :return: The simple interest
     """
-    simple_interest = (principal * rate * time) / 100
+    simple_interest = (principal * rate * time) / 1 #### (Correct this part )
     return simple_interest
 
 # Example usage
