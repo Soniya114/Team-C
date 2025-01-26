@@ -6,7 +6,7 @@ def calculate_simple_interest(principal, rate, time):
     :param time: The time the money is invested for (in years)
     :return: The simple interest
     """
-    simple_interest = (principal * rate * time) / 100
+    simple_interest = #### ( Formula is missing ) 
     return simple_interest
 
 # Example usage
