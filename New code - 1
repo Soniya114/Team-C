@@ -11,7 +11,7 @@ def calculate_simple_interest(principal, rate, time):
 # Example usage
 principal = 1000  # Principal amount: $1000
 rate = 5  # Annual interest rate: 5%
-time = 3  # Investment period: 3 years
+time = 3  # Investment period: 10 years ######### ( Investment period is wrong . Correct this part)
 
 interest = calculate_simple_interest(principal, rate, time)
 print(f"The simple interest is: ${interest}")
